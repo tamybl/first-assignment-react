@@ -1,0 +1,9 @@
+.typed {
+    width: 60%;
+    margin: 1em auto;
+}
+
+.typed input {
+    border: 2px double #333;
+    padding: 0.3em;
+}

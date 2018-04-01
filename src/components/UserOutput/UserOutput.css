@@ -1,0 +1,12 @@
+.username {
+    color: blueviolet;
+    font-size: 1.6em;
+}
+
+.paragraph {
+    width: 60%;
+    margin: 1em auto;
+    border: 1px solid #333;
+    border-radius: 0.4em;
+    padding: 1em;
+}
