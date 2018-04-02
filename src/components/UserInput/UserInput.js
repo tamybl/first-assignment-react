@@ -5,7 +5,7 @@ const userinput = (props) => {
   return (
     <div className="typed">
       <label>Usuario: </label>
-      <input type="text" onChange={props.changed} defaultValue={props.username}/>
+      <input type="text" onChange={props.changed} value={props.username}/>
     </div>
     )
 }
